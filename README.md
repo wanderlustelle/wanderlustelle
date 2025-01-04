@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Elle
-- 👀 I’m interested in lot's of things but some of them are scuba diving, boxing, music (singing, songwriting, DJing), machine learning/AI, philanhtropy, and entrepreneurship! 
-- 🌱 I’m currently learning ...Javascript + Python + Accessibility design
-- 💞️ I’m looking to collaborate on anything that requires automating our personal lives
-- 📫 How to reach me ... on twitter @elleheng_
+👋 Hi, I’m Michelle Mora
 
-<!---
-wanderlustelle/wanderlustelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+
+I’m a Web Designer and Systems Strategist passionate about creating workflows that work smarter, not harder. With extensive experience in impactful designs and systems-driven solutions, I combine creative flair with operational efficiency to deliver results.
+
+Technical Expertise
+	•	Languages: HTML, CSS, JavaScript, React
+	•	Platforms: Airtable, Zapier, Notion, Webflow, Softr, Squarespace
+	•	Focus Areas: Workflow automation, scalable systems, user-friendly web design
+
+When I’m not behind a screen, I’m a DJ, bringing corporate and special events to life or planning community-driven initiatives that support women-led small businesses.
+
+Let’s Connect
+	•	🌱 Currently exploring machine learning to develop or enhance large language models (LLMs) and AI systems. Python, and accessibility design principles
+	•	💞️ Open to Collaborations: Projects focused on automation, web design, and empowering communities
+	•	🔗 Portfolio: succeedandrepeat.com
+	•	💻 GitHub: wanderlustelle
+	•	🎵 DJing: elleida.com
+	•	📫 Reach Me: https://Linkedin.com/in/michelleidamora
